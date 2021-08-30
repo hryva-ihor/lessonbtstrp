@@ -16,3 +16,6 @@ body{
 .carousel-indicators .active,.carousel-control-prev, .carousel-control-next{
     background-color: rgb(0, 0, 0);
 }
+.rounded{
+	max-width: 150px;
+}
